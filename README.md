@@ -3,6 +3,10 @@ Sundong Park
 Changwon-si, Gyeongsangnam-do, Republic of Korea, 1999
 
 Biomedical Engineering & Software Convergence (Future Vehicle and Robot Track), Kyung Hee University, 2018~
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundongpark&langs_count=5&layout=compact&theme=default)](https://github.com/sundongpark/sundongpark)
+
+
 <!--
 **sundongpark/sundongpark** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
