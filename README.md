@@ -1,8 +1,10 @@
 # 박선동 (Sundong Park)
 
 Changwon-si, Gyeongsangnam-do, Republic of Korea, 1999
- 
-Biomedical Engineering & Software Convergence (Future Vehicle and Robot Track), Kyung Hee University, 2018~
+
+Republic of Korea Navy, (2019.07 ~ 2021.04)
+
+Biomedical Engineering & Software Convergence (Future Vehicle and Robot Track), Kyung Hee University, (2018 ~ )
 
 ---
 1999, 대한민국 경상남도 창원시
