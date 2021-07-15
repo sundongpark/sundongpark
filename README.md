@@ -9,6 +9,8 @@ Biomedical Engineering & Software Convergence (Future Vehicle and Robot Track), 
 ---
 1999, 대한민국 경상남도 창원시
 
+2019.07 ~ 2021.04, 대한민국 해군
+
 2018 ~ , 경희대학교 생체의공학과 & 소프트웨어융합학과 (미래자동차로봇 트랙)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=sundongpark&show_icons=true)](https://github.com/sundongpark/sundongpark)
