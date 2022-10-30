@@ -5,6 +5,12 @@
 - [Department of Biomedical Engineering](https://bme.khu.ac.kr), Kyung Hee University, (Mar. 2018 ~ Present)
 ## Military service
 - Republic of Korea Navy, (Jul. 2019 ~ Apr. 2021)
+## Skills
+- Programming languages: C, C++, Python
+## I’m currently learning
+- ROS
+- Reinforcement Learning
+- Robot vision
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundongpark&langs_count=3&layout=compact&theme=default&exclude_repo=sundongpark.github.io)](https://github.com/sundongpark/sundongpark)
 
