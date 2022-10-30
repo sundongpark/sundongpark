@@ -2,7 +2,7 @@
 - [Artificial Intelligence & Robotics Lab](http://airlab.khu.ac.kr), Department of Software Convergence, Kyung Hee University, (Sep. 2022 ~ Present)
 ## Education
 - [Department of Software Convergence](http://swcon.khu.ac.kr) (Future Vehicle and Robot Track), Kyung Hee University, (Sep. 2021 ~ Present)
-- [Department of Biomedical Engineering](https://bme.khu.ac.kr), Kyung Hee University, (Mar. 2018 ~ Present)
+- [Department of Biomedical Engineering](http://bme.khu.ac.kr), Kyung Hee University, (Mar. 2018 ~ Present)
 ## Military service
 - Republic of Korea Navy, (Jul. 2019 ~ Apr. 2021)
 ## Skills
