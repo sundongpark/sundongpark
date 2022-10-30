@@ -6,11 +6,18 @@
 ## Military service
 - Republic of Korea Navy, (Jul. 2019 ~ Apr. 2021)
 ## Skills
-- Programming languages: C, C++, Python
+- Programming languages: C, C++, Python, MATLAB
+- Libraries: ROS, PyTorch, OpenCV
+## Research interests
+- Simulation
+- Reinforcement Learning
+- Robot vision
+- Biomedical system modeling
 ## I’m currently learning
 - ROS
 - Reinforcement Learning
-- Robot vision
+- SLAM
+- Biomedical system modeling
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundongpark&langs_count=3&layout=compact&theme=default&exclude_repo=sundongpark.github.io)](https://github.com/sundongpark/sundongpark)
 
