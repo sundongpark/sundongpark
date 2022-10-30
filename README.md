@@ -3,7 +3,7 @@
 - 2018.03 ~ 현재, 경희대학교 생체의공학과
 - 2019.07 ~ 2021.04, 대한민국 해군
 - 2021.09 ~ 현재, 경희대학교 소프트웨어융합학과 (미래자동차로봇 트랙)
-- 2022.09 ~ 현재, 경희대학교 Artificial Intelligence & Robotics Lab
+- 2022.09 ~ 현재, [경희대학교 Artificial Intelligence & Robotics Lab](http://airlab.khu.ac.kr/)
 # 
 - Artificial Intelligence & Robotics Lab, Department of Software Convergence, Kyung Hee University, (2022.09 ~ Present)
 - Department of Software Convergence (Future Vehicle and Robot Track), Kyung Hee University, (2021.09 ~ Present)
