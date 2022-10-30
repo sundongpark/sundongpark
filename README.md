@@ -1,5 +1,4 @@
 # 박선동 (Sundong Park)
-- 1999, 대한민국 경상남도 창원시
 - 2018.03 ~ 현재, 경희대학교 [생체의공학과](https://bme.khu.ac.kr)
 - 2019.07 ~ 2021.04, 대한민국 해군
 - 2021.09 ~ 현재, 경희대학교 [소프트웨어융합학과](http://swcon.khu.ac.kr) (미래자동차로봇 트랙)
@@ -9,7 +8,6 @@
 - [Department of Software Convergence](http://swcon.khu.ac.kr) (Future Vehicle and Robot Track), Kyung Hee University, (2021.09 ~ Present)
 - Republic of Korea Navy, (2019.07 ~ 2021.04)
 - [Department of Biomedical Engineering](https://bme.khu.ac.kr), Kyung Hee University, (2018.03 ~ Present)
-- Changwon-si, Gyeongsangnam-do, Republic of Korea, 1999
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundongpark&langs_count=3&layout=compact&theme=default&exclude_repo=sundongpark.github.io)](https://github.com/sundongpark/sundongpark)
 
