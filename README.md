@@ -18,6 +18,7 @@
 - Reinforcement Learning
 - SLAM
 - Biomedical system modeling
+- NeRF (Neural Radiance Fields)
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundongpark&langs_count=3&layout=compact&theme=default&exclude_repo=sundongpark.github.io)](https://github.com/sundongpark/sundongpark)
 
