@@ -2,6 +2,7 @@
 - [Artificial Intelligence & Robotics Lab](http://airlab.khu.ac.kr), [Department of Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2022 ~ Present)
 ## Education
 - M.S. Student, [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Present)
+  - [Artificial Intelligence & Robotics Lab](http://airlab.khu.ac.kr)
 - B.S. in [Software Convergence](http://swcon.khu.ac.kr) (Future Vehicle and Robot Track), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2021 ~ Aug. 2023)
 - B.S. in [Biomedical Engineering](http://bme.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Mar. 2018 ~ Aug. 2023)
 ## Military service
@@ -11,8 +12,8 @@
 - Libraries: ROS, PyTorch, OpenCV
 ## Research interests
 - Data Augmentation
+- Self-Supervised Learning
 - Simulation
-- Reinforcement Learning
 - Robot Vision
 ## I’m currently learning
 - Self-Supervised Learning
