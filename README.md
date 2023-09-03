@@ -8,7 +8,7 @@
 ## Military service
 - Republic of Korea Navy, (Jul. 2019 ~ Apr. 2021)
 ## Skills
-- Programming languages: C, C++, Python, MATLAB
+- Programming languages: C++, Python, MATLAB
 - Libraries: ROS, PyTorch, OpenCV
 ## Research interests
 - Data Augmentation
