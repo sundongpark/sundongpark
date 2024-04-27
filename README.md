@@ -23,7 +23,7 @@
 - Knowledge Distillation
 - NeRF (Neural Radiance Fields)
 ## Hobbies
-- Fan of Suwon Samsung Bluewings
+- Fan of Suwon Samsung Bluewings Football Club
 - Hand Drip Coffee
 - Kickboxing
 - Photography
