@@ -10,13 +10,13 @@
 ## Publications
 1. **Sundong Park**, Yoonyoung Choi, Hyoseok Hwang, "SACuP: Sonar Image Augmentation with Cut and Paste Based DataBank for Semantic Segmentation," Remote Sensing 2023, 15(21), 5185 [IF:5.0] [[Paper]](https://doi.org/10.3390/rs15215185) [[Code]](https://github.com/AIRLABkhu/SACuP) 
 ## Skills
-- Programming languages: C++, Python, MATLAB
-- Libraries: ROS, PyTorch, OpenCV
+- Programming languages: Python, C++, MATLAB
+- Libraries: PyTorch, OpenCV, ROS
 ## Research interests
-- Data Augmentation
-- Self-Supervised Learning
+- Computer Vision
+- Artificial Intelligence
 - Machine Unlearning
-- Robot Vision
+- Data Augmentation
 ## I’m currently learning
 - Machine Unlearning
 - Self-Supervised Learning
