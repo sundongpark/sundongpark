@@ -22,6 +22,11 @@
 - Self-Supervised Learning
 - Knowledge Distillation
 - NeRF (Neural Radiance Fields)
+## Hobbies
+- Fan of Suwon Samsung Bluewings
+- Hand Drip Coffee
+- Kickboxing
+- Photography
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sundongpark&langs_count=3&layout=compact&theme=default&exclude_repo=sundongpark.github.io)](https://github.com/sundongpark/sundongpark)
 
