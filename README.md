@@ -1,23 +1,23 @@
 # 박선동 (Sundong Park)
-- 
+**Research Engineer, LIG Nex1**
 
 I am Sundong Park, an AI and software engineer specializing in computer vision and machine learning.
 I received my M.S. in Software Convergence at Kyung Hee University in the [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr).
 I obtained my B.S. in [Biomedical Engineering](http://bme.khu.ac.kr) and [Software Convergence](http://swcon.khu.ac.kr) from [Kyung Hee University](https://www.khu.ac.kr).
 My research focused on Vision AI, including data-efficient learning, privacy-preserving AI, and real-time sensor processing for practical applications.
-I am currently seeking opportunities to apply these experiences to smart manufacturing, robotics, and autonomous systems, where robustness and practical deployment are essential.
+I aim to advance Vision AI to help build a better future and make the world better.
 
 ## Experience
-- 
+- Research Engineer in LIG Nex1 (Jan. 2026 - Present)
 
 ## Education
-- M.S. in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr), (Sep. 2023 ~ Aug. 2025)
+- M.S. in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr) (Sep. 2023 - Aug. 2025)
   - [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr)
-- B.S. in [Kyung Hee University](https://www.khu.ac.kr), (Mar. 2018 ~ Aug. 2023)
+- B.S. in [Kyung Hee University](https://www.khu.ac.kr) (Mar. 2018 - Aug. 2023)
   - Major: [Biomedical Engineering](http://bme.khu.ac.kr)
   - Double Major: [Software Convergence](http://swcon.khu.ac.kr) (Robot and Vision Track)
 
-  Military Service: Republic of Korea Navy (Jul. 2019 ~ Apr. 2021)
+  Military Service: Republic of Korea Navy (Jul. 2019 - Apr. 2021)
 
 ## Publications
 (\*: Equal contribution, †: Corresponding author)
