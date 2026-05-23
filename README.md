@@ -1,5 +1,5 @@
 # 박선동 (Sundong Park)
-**Research Engineer, LIG Defense&Aerospace**
+**Research Engineer, LIG Defense&Aerospace (LIG D&A)**
 
 I am Sundong Park, an AI and software engineer specializing in computer vision and machine learning.
 I received my M.S. in Software Convergence at Kyung Hee University in the [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr).
