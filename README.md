@@ -1,5 +1,5 @@
 # 박선동 (Sundong Park)
-**Research Engineer, [LIG Defense&Aerospace (LIG D&A)](ligdefenseaerospace.com)**
+**Research Engineer, [LIG Defense&Aerospace (LIG D&A)](http://www.ligdefenseaerospace.com)**
 
 I am Sundong Park, an AI and software engineer specializing in computer vision and machine learning.
 I received my M.S. in Software Convergence at Kyung Hee University in the [AIRLab (Artificial Intelligence & Robotics Lab)](http://airlab.khu.ac.kr).
@@ -8,7 +8,7 @@ My research focused on Vision AI, including data-efficient learning, privacy-pre
 I aim to advance Vision AI to help build a better future and make the world better.
 
 ## Experience
-- Research Engineer in [LIG Defense&Aerospace](ligdefenseaerospace.com) (Jan. 2026 - Present)
+- Research Engineer in [LIG Defense&Aerospace](http://www.ligdefenseaerospace.com) (Jan. 2026 - Present)
 
 ## Education
 - M.S. in [Software Convergence](http://swcon.khu.ac.kr), [Kyung Hee University](https://www.khu.ac.kr) (Sep. 2023 - Aug. 2025)
